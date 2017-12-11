@@ -1,0 +1,9 @@
+IMAGE_FILE_INFORMATION
+inputImagePath = /home/akshat/PETS2000/Images/
+inputImageBaseName = test
+inputImageFormat = bmp
+imageStartNum = 0000
+imageEndNum = 1451
+zeroPaddingFormatSize = 4
+maxZeroPaddingImgIndx = 999
+roiImageName = /home/akshat/PETS2000/ROI_PETS2000.bmp
